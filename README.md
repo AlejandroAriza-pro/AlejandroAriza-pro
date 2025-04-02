@@ -1,16 +1,15 @@
-## Hi there 👋
+Soy un desarrollador fullstack en formación con conocimientos en Python, pseudocódigo, Git y GitHub. Apasionado por la tecnología y el desarrollo de software, siempre busco aprender y mejorar mis habilidades.
 
-<!--
-**AlejandroAriza-pro/AlejandroAriza-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como emprendedor, tengo varios proyectos en marcha y me encanta crear soluciones innovadoras a través del código.
 
-Here are some ideas to get you started:
+🔹 Habilidades:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo fullstack
+
+- Control de versiones con Git y GitHub
+
+- Resolución de problemas y pensamiento lógico
+
+💡 Siempre explorando nuevas oportunidades y tecnologías.
+
+📫 Conéctate conmigo: Si tienes ideas, colaboraciones o sugerencias, ¡hablemos!
