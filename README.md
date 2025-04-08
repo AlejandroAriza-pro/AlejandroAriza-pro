@@ -36,7 +36,7 @@ Siempre estoy explorando nuevas tecnologías y herramientas. Actualmente, estoy 
 ## 📀 Proyectos Destacados  
 
 - [Proyecto_Juego_Pong_2.0](https://github.com/AlejandroAriza-pro/Pong_2.0): El juego Pong clásico y una versión nueva.  
-- [Proyecto 2](https://github.com/tu_usuario/proyecto2): Breve descripción de este proyecto.  
+- [Proyecto Mecanografía](https://github.com/AlejandroAriza-pro/Mecanograf-a): Comprueba cuantas palabras por minuto eres capaz de escribir.  
 
 ---  
 
