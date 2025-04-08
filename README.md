@@ -35,7 +35,7 @@ Siempre estoy explorando nuevas tecnologías y herramientas. Actualmente, estoy 
 
 ## 📀 Proyectos Destacados  
 
-- [Proyecto 1](https://github.com/tu_usuario/proyecto1): Breve descripción de lo que hace este proyecto.  
+- [Proyecto_Juego_Pong_2.0](https://github.com/AlejandroAriza-pro/Pong_2.0): El juego Pong clásico y una versión nueva.  
 - [Proyecto 2](https://github.com/tu_usuario/proyecto2): Breve descripción de este proyecto.  
 
 ---  
