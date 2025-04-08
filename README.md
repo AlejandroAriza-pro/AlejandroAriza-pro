@@ -30,7 +30,7 @@ Siempre estoy explorando nuevas tecnologías y herramientas. Actualmente, estoy 
 ¡Me encantaría saber de ti! Si tienes ideas, colaboraciones o sugerencias, no dudes en contactarme:  
 
 - **GitHub**: [AlejandroAriza-pro](https://github.com/AlejandroAriza-pro)  
-- **LinkedIn**: [Alejadnro Ariza Cabrera](https://www.linkedin.com/in/alejandro-ariza-cabrera-88237035/)  
+- **LinkedIn**: [Alejandro Ariza Cabrera](https://www.linkedin.com/in/alejandro-ariza-cabrera-88237035/)  
 - **Correo**: alejandroarizacabrera@gmail.com  
 
 ## 📀 Proyectos Destacados  
