@@ -12,14 +12,16 @@ Como emprendedor, tengo varios proyectos en marcha que me permiten aplicar lo ap
   - Trabajo con tecnologías como HTML, CSS, JavaScript, y frameworks modernos.  
 - **Python**  
   - Desarrollo de aplicaciones y scripts eficientes.
+- **Linux y la Terminal**
+  - Manejo profesional de Linux y la Terminal.
 - **WebScraping**
-  - Manejo de WebScraping con Python
+  - Manejo de WebScraping con Python.
 - **Control de Versiones**  
   - Uso de Git y GitHub para la gestión de proyectos y colaboración en equipo.  
 - **Resolución de Problemas**  
   - Fuerte pensamiento lógico y analítico, siempre buscando soluciones efectivas.
 - **Estadistica y Probabilidad**
-  - Manejo de herramientas de Estadística y Probabilidad con Python, Gráficos y Visaulización de Datos, Correlación, Regresión y Métodos de Muestreo
+  - Manejo de herramientas de Estadística y Probabilidad con Python, Gráficos y Visaulización de Datos, Correlación, Regresión y Métodos de Muestreo.
 
 ## 🌱 Aprendiendo  
 
